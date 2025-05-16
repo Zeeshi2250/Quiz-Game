@@ -9,3 +9,22 @@ body{
     align-items: center;
     height: 100vh;
 }
+.btn{
+    width: 90%;
+    padding: 10px;
+    margin: 10px 20px;
+    background-color: white;
+    text-align: center;
+    border-radius: 50px;
+    font-size: 15px;
+    border: 1px solid gray;
+}
+#next-btn{
+    background-color: #16325b;
+    color: white;
+    display: block;
+    border: none;
+    padding: .5rem 3rem;
+    margin: 0% auto;
+    margin-bottom: 10px;
+}
